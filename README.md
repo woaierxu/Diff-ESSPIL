@@ -1,4 +1,4 @@
-# Diff-ESSPIL
-This is the code of artical: "Diff-ESSPIL: Diffusion-Based Edge-Soft-Sensitive Perception Inheritance Learning for Semi-Supervised Medical Image Segmentation"
+# RNCL
+This is the code of artical: "Refinement-based Noise-Conditioned Learning for Semi-Supervised Medical Image Segmentation"
 
 Code coming soon！
