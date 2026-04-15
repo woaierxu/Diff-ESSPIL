@@ -1,7 +1,0 @@
-[21:03:49.742] Namespace(base_lr=0.001, batch_size=4, consistency=1.0, consistency_rampup=40.0, deterministic=1, exp='train_kits19_rncl_lab10', gpu='0', labelnum=19, lambda_dice=1, loss_weight=0.5, magnitude=10.0, mask_ratio=0.6666666666666666, max_samples=80, model='RNCL', pre_max_iteration=2000, root_path='D:\\data1\\mengqingxu\\Dataset\\KiTS19\\KiTS19-SSL', seed=1345, self_max_iteration=13000, u_alpha=2.0, u_weight=0.5)
-[21:03:49.939] 9 iterations per epoch
-[21:03:49.942] 
-
-[21:03:51.027] iteration 1 : loss: 0.847358, loss_dice: 0.705942, loss2: 0.679247, loss_dice2: 0.649425,
-[21:03:51.807] iteration 2 : loss: 0.806430, loss_dice: 0.686341, loss2: 0.666085, loss_dice2: 0.617295,
-[21:03:52.590] iteration 3 : loss: 0.771096, loss_dice: 0.661499, loss2: 0.584231, loss_dice2: 0.572449,

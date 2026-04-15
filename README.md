@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RNCL:Refinement-based Noise-conditioned Learning for Semi-Supervised Medical Image Segmentation
 
 
@@ -71,3 +72,9 @@ python test_pancreas.py
 
 
 
+=======
+# RNCL
+This is the code of artical: "Refinement-based Noise-Conditioned Learning for Semi-Supervised Medical Image Segmentation"
+
+Code coming soon！
+>>>>>>> 5f6e5635658ac89772423754f5bbbdfee7df3507
