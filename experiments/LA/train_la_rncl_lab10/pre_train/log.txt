@@ -1,0 +1,24 @@
+[20:58:30.515] Namespace(base_lr=0.001, batch_size=4, consistency=1.0, consistency_rampup=40.0, deterministic=1, exp='train_la_rncl_lab10', gpu='0', labelnum=8, lambda_dice=1, loss_weight=0.5, magnitude=10.0, mask_ratio=0.6666666666666666, max_samples=80, model='RNCL', mse_ratio=[0.75, 0.75, 0.75], pre_max_iteration=2000, root_path='/data1/mengqingxu/Dataset/LA/data/', seed=1345, self_max_iteration=8000, shift_step=2, u_alpha=2.0, u_weight=0.5)
+[20:58:30.722] train_lab8 set: total 8 samples
+[20:58:30.722] train_lab8 set: total 8 samples
+[20:58:30.724] 4 iterations per epoch
+[20:58:30.726] 
+
+[20:58:31.855] iteration 1 : loss: 0.743402, loss_dice: 0.592560, loss2: 0.638851, loss_dice2: 0.559025,
+[20:58:32.664] iteration 2 : loss: 0.725422, loss_dice: 0.576356, loss2: 0.592835, loss_dice2: 0.514913,
+[20:58:33.465] iteration 3 : loss: 0.726318, loss_dice: 0.576705, loss2: 0.589297, loss_dice2: 0.532390,
+[20:58:34.275] iteration 4 : loss: 0.725617, loss_dice: 0.574216, loss2: 0.546118, loss_dice2: 0.483227,
+[20:58:34.276] 
+
+[20:58:35.088] iteration 5 : loss: 0.627173, loss_dice: 0.510388, loss2: 0.412169, loss_dice2: 0.376776,
+[20:58:35.901] iteration 6 : loss: 0.652061, loss_dice: 0.533266, loss2: 0.474827, loss_dice2: 0.414581,
+[20:58:36.710] iteration 7 : loss: 0.631857, loss_dice: 0.534288, loss2: 0.397276, loss_dice2: 0.387241,
+[20:58:37.518] iteration 8 : loss: 0.598657, loss_dice: 0.500637, loss2: 0.270246, loss_dice2: 0.277868,
+[20:58:37.518] 
+
+[20:58:38.328] iteration 9 : loss: 0.570064, loss_dice: 0.483707, loss2: 0.305463, loss_dice2: 0.305575,
+[20:58:39.152] iteration 10 : loss: 0.567892, loss_dice: 0.489437, loss2: 0.274653, loss_dice2: 0.283169,
+[20:58:39.965] iteration 11 : loss: 0.563855, loss_dice: 0.492438, loss2: 0.295810, loss_dice2: 0.305181,
+[20:58:40.792] iteration 12 : loss: 0.577379, loss_dice: 0.501710, loss2: 0.318157, loss_dice2: 0.315840,
+[20:58:40.793] 
+
