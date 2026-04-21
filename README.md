@@ -62,5 +62,16 @@ python test_pancreas.py
 
 ## Citations
 ```
-
+@article{MENG2026132365,
+title = {Refinement-based noise-conditioned learning for semi-supervised medical image segmentation},
+journal = {Expert Systems with Applications},
+volume = {322},
+pages = {132365},
+year = {2026},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2026.132365},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417426012789},
+author = {Qingxu Meng and Weijiang Wang and Hang Qi and Hua Dang and Chuxuan Shan and Jiacheng Gu and Dan Wang and Xiaohua Wang},
+keywords = {Semi-supervised learning, Medical image segmentation, Refinement learning, Noise conditioning, Feature fusion}
+}
 ```
